@@ -1,0 +1,15 @@
+{
+  "orgName": "nrakuyama scratch",
+  "country": "JP",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "language": "ja",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
